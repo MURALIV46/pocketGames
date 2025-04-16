@@ -48,7 +48,7 @@
 /* gamecard end*/
 .my_content {
     /* outline: 1px solid red; */
-    background:#36454F;
+   /* background:#36454F;*/
     display: flex;
     position: fixed;
     top: 60px;

@@ -15,7 +15,7 @@ header {
   
   .logo {
     padding: 0px 20px;
-    font-size: 2em;
+    /*font-size: 2em;*/
     font-weight: bold;
   }
   nav ul {
@@ -29,7 +29,7 @@ header {
   nav ul li a {
     color: white;
     text-decoration: none;
-    font-size: 1.2em;
+   /* font-size: 1.2em;*/
   }
   
   .user-btn {

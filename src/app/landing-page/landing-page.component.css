@@ -71,8 +71,8 @@
     padding-top: 10px;
   }
   .profile-pic {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid #fff;
